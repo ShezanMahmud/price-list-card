@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Basic",
+    "price": 10,
+    "features": ["1GB storage", "10 email accts", "Free domain"]
+  },
+  {
+    "id": 2,
+    "name": "Pro",
+    "price": 25,
+    "features": ["10GB storage", "50 email accts", "24/7 support"]
+  },
+  {
+    "id": 3,
+    "name": "Premium",
+    "price": 50,
+    "features": ["50GB storage", "Unlimited email", "SSL cert"]
+  }
+]
